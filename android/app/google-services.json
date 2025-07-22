@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "818107601225",
+    "project_id": "chattingapp-2378e",
+    "storage_bucket": "chattingapp-2378e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818107601225:android:8d56a67f9aa3fe0e3f8a98",
+        "android_client_info": {
+          "package_name": "com.example.chatingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvCdrgLjVFFK_qEnebrGaibW_bIDvSRyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818107601225:android:380cfa3fcf13d68c3f8a98",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvCdrgLjVFFK_qEnebrGaibW_bIDvSRyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
